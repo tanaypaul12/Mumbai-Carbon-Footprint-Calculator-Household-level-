@@ -1,4 +1,4 @@
-**Mumbai-Carbon-Footprint-Calculator-Household-level **
+**Mumbai-Carbon-Footprint-Calculator-Household-level**
 
 **Overview**
 
